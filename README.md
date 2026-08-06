@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  Soy un Desarrollador, con un fuerte enfoque en la creación de software escalable, Cloud Computing y DevOps. Me apasiona construir soluciones integrales, desde el diseño UX/UI hasta la automatización de despliegues en la nube, apoyándome en el análisis de datos para tomar mejores decisiones técnicas.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jhonn-pether-sj" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Jhonn%20Pether-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -44,7 +48,6 @@
       alt="Estadísticas generales de GitHub"
     />
   </picture>
-
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -81,7 +84,7 @@
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Stack Tecnológico
 
 <div align="center">
   <table>
@@ -90,12 +93,12 @@
         <strong>Frontend</strong>
         <br><br>
         <img
-          src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"
-          alt="HTML, CSS, JavaScript, TypeScript, React, Next.js y Tailwind CSS"
+          src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind"
+          alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular y Tailwind CSS"
         />
       </td>
       <td align="center" width="50%">
-        <strong>Backend y lenguajes</strong>
+        <strong>Backend y Lenguajes</strong>
         <br><br>
         <img
           src="https://skillicons.dev/icons?i=java,python,cpp,nodejs,express"
@@ -105,7 +108,7 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <strong>Bases de datos</strong>
+        <strong>Bases de Datos</strong>
         <br><br>
         <img
           src="https://skillicons.dev/icons?i=mongodb,postgres"
@@ -116,19 +119,21 @@
         <strong>Cloud y DevOps</strong>
         <br><br>
         <img
-          src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,terraform,githubactions"
-          alt="Google Cloud, Docker, Kubernetes, Terraform y GitHub Actions"
+          src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,terraform,githubactions"
+          alt="Google Cloud, Azure, Docker, Kubernetes, Terraform y GitHub Actions"
         />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <strong>Herramientas y entorno de trabajo</strong>
+        <strong>Herramientas y Entorno de Trabajo</strong>
         <br><br>
         <img
-          src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode"
-          alt="Linux, Bash, Git, GitHub y Visual Studio Code"
+          src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,figma"
+          alt="Linux, Bash, Git, GitHub, Visual Studio Code y Figma"
         />
+        <br><br>
+        <em>Otras tecnologías y herramientas: React Native, Databricks, APIs (OpenAI, Telegram), Power BI, Slack, Canva.</em>
       </td>
     </tr>
   </table>
@@ -139,19 +144,9 @@
 ## 🧠 En qué estoy trabajando actualmente
 
 ```diff
-+ Aprendiendo arquitectura y servicios en Google Cloud Platform
-+ Profundizando en Kubernetes y Terraform
-+ Mejorando mis conocimientos en Docker y automatización
-+ Optimizando pipelines de integración y despliegue continuo
-+ Construyendo proyectos Full Stack con aplicaciones prácticas
-! Abierto a nuevas oportunidades y retos profesionales
-```
-
----
-
-<p align="center">
-  <em>“La mejora continua convierte cada proyecto en una oportunidad de crecimiento.”</em>
-</p>
-<p align="center">
-  Gracias por visitar mi perfil.
-</p>
++ Diseñando arquitecturas y desarrollando soluciones en Microsoft Azure y Google Cloud
++ Profundizando en Kubernetes, Terraform y automatización de despliegues
++ Construyendo proyectos Full Stack e integrando servicios como la API de OpenAI y Telegram
++ Aplicando principios de diseño UX/UI en Figma y herramientas de análisis de datos
++ Mejorando mis conocimientos en frameworks modernos como Angular y React Native
+! Abierto a nuevas oportunidades y retos profesionales en el sector tecnológico
