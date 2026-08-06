@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  Soy un Desarrollador, con un fuerte enfoque en la creación de software escalable, Cloud Computing y DevOps. Me apasiona construir soluciones integrales, desde el diseño UX/UI hasta la automatización de despliegues en la nube, apoyándome en el análisis de datos para tomar mejores decisiones técnicas.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/jhonn-pether-sj" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Jhonn%20Pether-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
