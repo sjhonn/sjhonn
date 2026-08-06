@@ -27,52 +27,50 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=sjhonn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=sjhonn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&icon_color=7aa2f7"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=sjhonn&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_radius=10"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=sjhonn&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&icon_color=185fa5"
     />
     <img
       height="180"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=sjhonn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=sjhonn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=14"
       alt="Estadísticas generales de GitHub"
     />
   </picture>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjhonn&layout=compact&theme=tokyonight&langs_count=8&border_radius=10"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjhonn&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=14"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjhonn&layout=compact&theme=default&langs_count=8&border_radius=10"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjhonn&layout=compact&theme=default&langs_count=8&hide_border=true&border_radius=14"
     />
     <img
       height="180"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjhonn&layout=compact&theme=tokyonight&langs_count=8&border_radius=10"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjhonn&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=14"
       alt="Lenguajes más utilizados"
     />
   </picture>
 </p>
-
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=sjhonn&theme=tokyonight&hide_border=true&border_radius=10"
+      srcset="https://streak-stats.demolab.com?user=sjhonn&theme=tokyonight&hide_border=true&border_radius=14"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=sjhonn&theme=swift&hide_border=true&border_radius=10"
+      srcset="https://streak-stats.demolab.com?user=sjhonn&theme=default&hide_border=true&border_radius=14"
     />
     <img
-      src="https://streak-stats.demolab.com?user=sjhonn&theme=tokyonight&hide_border=true&border_radius=10"
+      src="https://streak-stats.demolab.com?user=sjhonn&theme=tokyonight&hide_border=true&border_radius=14"
       alt="Racha de contribuciones en GitHub"
     />
   </picture>
