@@ -150,7 +150,7 @@
 ---
 
 <p align="center">
-  <em>“La mejora continua convierte cada proyecto en una oportunidad de crecimiento...”</em>
+  <em>“La mejora continua convierte cada proyecto en una oportunidad de crecimiento.”</em>
 </p>
 <p align="center">
   Gracias por visitar mi perfil.
