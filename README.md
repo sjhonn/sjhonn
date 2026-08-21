@@ -3,10 +3,10 @@
 # 👋 ¡Hola, soy Jhonn Pether!
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=Desarrollador+Operativo+y+Diseñador;Apasionado+por+Cloud+%26+DevOps;Frontend+%2B+GitLabs+%2B+Docker;Construyendo+soluciones+escalables;Automatizando+todo+lo+automatizable;Aprendiendo%2C+mejorando%2C+creando+sin+parar"
-    alt="Presentación animada"
-  />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=Desarrollador+Operativo+y+Diseñador;Apasionado+por+Cloud+%26+DevOps;Convirtiendo+cafe+en+codigo;Construyendo+soluciones+escalables;Funciona+en+mi+maquina;Aprendiendo%2C+mejorando%2C+creando+sin+parar"
+  alt="Presentación animada"
+/>
 </a>
 
 <br/>
@@ -45,7 +45,6 @@ Construyendo soluciones web escalables, con especial enfoque en **arquitecturas 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sjhonn&theme=tokyonight&hide_border=false&border_radius=14" alt="Racha de contribuciones en GitHub" />
-
 </div>
 
 ## 💻 Stack
